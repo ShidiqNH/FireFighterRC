@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fire Fighter</string>
+    <string name="Left">«</string>
+    <string name="Right">»</string>
+    <string name="Forward">↑</string>
+    <string name="Backward">↓</string>
+    <string name="CamUnavailable">Camera stream unavailable</string>
+
+</resources>
